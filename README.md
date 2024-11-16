@@ -2,6 +2,8 @@
 
 The **Sync Extension** is a Visual Studio Code extension designed to monitor and synchronize files between specified source and target directories automatically. This extension is useful for scenarios where multiple directories need to stay in sync while coding, building, or deploying.
 
+Repo: https://github.com/walterdvalle/syncfiles
+
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/waltervalle)
 
 ## Features
