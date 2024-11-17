@@ -2,7 +2,7 @@
   "name": "sync-extension",
   "displayName": "Sync Extension",
   "description": "A VS Code extension for syncing files between directories.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "waltervalle",
   "icon": "icon.png",
   "engines": {
